@@ -1,0 +1,6 @@
+2026-04-09 03:51:23 | TO: jas@gmail.com | CODE: 843256 | SUBJECT: SCHoRD Login Verification Code
+2026-04-09 03:51:25 | RESULT: FAILED for jas@gmail.com
+2026-04-09 03:57:48 | TO: jas@gmail.com | CODE: 948236 | SUBJECT: SCHoRD Login Verification Code
+2026-04-09 03:57:50 | RESULT: FAILED for jas@gmail.com
+2026-04-09 03:58:13 | TO: paduajapsher@gmail.com | CODE: 753033 | SUBJECT: SCHoRD Login Verification Code
+2026-04-09 03:58:15 | RESULT: FAILED for paduajapsher@gmail.com
